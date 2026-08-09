@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2678-number-of-senior-citizens) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3731-find-missing-elements) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2678-number-of-senior-citizens](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2678-number-of-senior-citizens) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
