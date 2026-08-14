@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1406-stone-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
