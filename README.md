@@ -238,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
