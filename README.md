@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -196,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
