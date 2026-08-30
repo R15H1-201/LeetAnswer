@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2678-number-of-senior-citizens](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2678-number-of-senior-citizens) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
