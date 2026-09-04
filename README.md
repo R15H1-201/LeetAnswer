@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1563-stone-game-v) |
+| [1656-design-an-ordered-stream](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1656-design-an-ordered-stream) |
 | [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1929-concatenation-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
+| [1656-design-an-ordered-stream](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1656-design-an-ordered-stream) |
 | [2043-simple-bank-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2043-simple-bank-system) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -325,5 +327,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
+| [1656-design-an-ordered-stream](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1656-design-an-ordered-stream) |
 | [2043-simple-bank-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2043-simple-bank-system) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
