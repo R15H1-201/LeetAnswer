@@ -326,11 +326,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1656-design-an-ordered-stream) |
 | [2043-simple-bank-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2043-simple-bank-system) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1656-design-an-ordered-stream) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
