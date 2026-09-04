@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2043-simple-bank-system) |
@@ -322,5 +324,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
