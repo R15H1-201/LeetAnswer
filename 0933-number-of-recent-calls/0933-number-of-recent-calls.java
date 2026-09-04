@@ -1,0 +1,31 @@
+class RecentCounter {
+    private int[] timestamps = new int[10010];
+    private int currentIndex;
+    public RecentCounter() {
+        currentIndex = 0;
+    }
+    public int ping(int t) {
+        timestamps[currentIndex++] = t;
+        int firstValidIndex = binarySearch(t - 3000);
+        return currentIndex - firstValidIndex;
+    }
+    private int binarySearch(int target) {
+        int left = 0;
+        int right = currentIndex;
+        while (left < right) {
+            int mid = (left + right) >> 1;
+          
+            if (timestamps[mid] >= target) {
+                right = mid;
+            } else {
+                left = mid + 1;
+            }
+        }      
+        return left;
+    }
+}
+/**
+ * Your RecentCounter object will be instantiated and called as such:
+ * RecentCounter obj = new RecentCounter();
+ * int param_1 = obj.ping(t);
+ */
