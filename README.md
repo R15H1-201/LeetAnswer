@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2678-number-of-senior-citizens](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2678-number-of-senior-citizens) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
