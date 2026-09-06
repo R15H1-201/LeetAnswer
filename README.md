@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0570-managers-with-at-least-5-direct-reports) |
