@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0014-longest-common-prefix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0877-stone-game) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
