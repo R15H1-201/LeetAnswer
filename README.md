@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0836-rectangle-overlap) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0940-distinct-subsequences-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0013-roman-to-integer) |
 | [1386-cinema-seat-allocation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
