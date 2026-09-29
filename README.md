@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0014-longest-common-prefix) |
+| [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0835-image-overlap) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -485,4 +489,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
