@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0836-rectangle-overlap) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0115-distinct-subsequences) |
+| [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1929-concatenation-of-array) |
