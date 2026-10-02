@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0383-ransom-note) |
 | [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1386-cinema-seat-allocation) |
