@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 | [0835-image-overlap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0242-valid-anagram) |
+| [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0002-add-two-numbers) |
+| [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1656-design-an-ordered-stream) |
@@ -526,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
