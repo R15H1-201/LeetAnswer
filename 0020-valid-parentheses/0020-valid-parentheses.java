@@ -1,22 +1,22 @@
 class Solution {
     public boolean isValid(String s) {
         Deque<Character> stack = new ArrayDeque<>();
-        for (char currentChar : s.toCharArray()) {
-            if (currentChar == '(' || currentChar == '{' || currentChar == '[') {
-                stack.push(currentChar);
+        for(int i = 0; i < s.length(); i++){
+            char c = s.charAt(i);
+            if(c == '(' || c == '[' || c == '{'){
+                stack.push(c);
             }
-            else {
-                if (stack.isEmpty() || !isMatchingPair(stack.peek(), currentChar)) {
+            else{
+                if(stack.isEmpty()){
                     return false;
                 }
-                stack.pop();
+
+                char top = stack.pop();
+                if ((c == ')' && top != '(') || (c == ']' && top != '[') || (c == '}' && top != '{')) {
+                    return false;
+                }
             }
         }
         return stack.isEmpty();
-    }
-    private boolean isMatchingPair(char openingBracket, char closingBracket) {
-        return (openingBracket == '(' && closingBracket == ')') ||
-               (openingBracket == '{' && closingBracket == '}') ||
-               (openingBracket == '[' && closingBracket == ']');
     }
 }
