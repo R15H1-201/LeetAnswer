@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0678-valid-parenthesis-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
