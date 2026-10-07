@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0940-distinct-subsequences-ii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0141-linked-list-cycle) |
+| [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1929-concatenation-of-array) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
