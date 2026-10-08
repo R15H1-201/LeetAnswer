@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0237-delete-node-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0876-middle-of-the-linked-list) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
