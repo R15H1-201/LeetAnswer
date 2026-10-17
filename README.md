@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0682-baseball-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -625,9 +629,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0287-find-the-duplicate-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
