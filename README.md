@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 | [0835-image-overlap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1386-cinema-seat-allocation) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
