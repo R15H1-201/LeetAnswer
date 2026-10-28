@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0301-remove-invalid-parentheses) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0143-reorder-list) |
