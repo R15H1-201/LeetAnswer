@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0412-fizz-buzz) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0383-ransom-note) |
 | [0706-design-hashmap](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0706-design-hashmap) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
