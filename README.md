@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0287-find-the-duplicate-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2089-find-target-indices-after-sorting-array) |
