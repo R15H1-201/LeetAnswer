@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1656-design-an-ordered-stream](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1672-richest-customer-wealth) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0844-backspace-string-compare) |
 | [1603-design-parking-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1603-design-parking-system) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2043-simple-bank-system) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## String Matching
 |  |
