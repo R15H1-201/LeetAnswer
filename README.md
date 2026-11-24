@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2029-stone-game-ix) |
 | [2043-simple-bank-system](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2043-simple-bank-system) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2747-count-zero-request-servers](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishikumavatcoder/LeetAnswer/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
