@@ -1,0 +1,14 @@
+class Solution {
+    public boolean canAliceWin(int n) {
+        int stonesPerTurn = 10;
+        int turnCount = 0;
+
+        while (n >= stonesPerTurn) {
+            n -= stonesPerTurn;
+          
+            stonesPerTurn--;          
+            turnCount++;
+        }
+        return turnCount % 2 == 1;
+    }
+}
